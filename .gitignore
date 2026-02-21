@@ -1,0 +1,11 @@
+artifacts/
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+*.wav
+*.TextGrid
+*.json
+.ipynb_checkpoints/
+configs/paths.yaml
+__pycache__/

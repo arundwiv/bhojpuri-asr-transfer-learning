@@ -1,0 +1,16 @@
+torch
+torchaudio
+transformers
+datasets
+evaluate
+jiwer
+librosa
+soundfile
+numpy
+pandas
+matplotlib
+tqdm
+textgrid
+pyyaml
+pyctcdecode
+kenlm
