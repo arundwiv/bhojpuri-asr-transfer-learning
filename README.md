@@ -2,7 +2,7 @@
 
 
 
-This repository contains my MSc Artificial Intelligence dissertation work 
+This repository contains my MSc Artificial Intelligence dissertation work
 
 on adapting IndicWav2Vec models for Bhojpuri Automatic Speech Recognition (ASR).
 
@@ -41,6 +41,4 @@ reports/
 
 
 Experiments conducted using the SpeeD-IA Bhojpuri corpus.
-
-
 
