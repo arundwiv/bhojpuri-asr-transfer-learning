@@ -1,4 +1,4 @@
-\# Bhojpuri ASR via Transfer Learning
+# Bhojpuri ASR via Transfer Learning
 
 
 
@@ -8,35 +8,35 @@ on adapting IndicWav2Vec models for Bhojpuri Automatic Speech Recognition (ASR).
 
 
 
-\## Pipeline
+## Pipeline
 
 
 
-1\. Dataset preparation and LOSO speaker split
+1. Dataset preparation and LOSO speaker split
 
-2\. Fine-tuning IndicWav2Vec
+2. Fine-tuning IndicWav2Vec
 
-3\. Evaluation with WER/CER
+3. Evaluation with WER/CER
 
-4\. Optional KenLM shallow fusion decoding
-
-
-
-\## Structure
+4. Optional KenLM shallow fusion decoding
 
 
 
-notebooks/
-
-src/
-
-configs/
-
-reports/
+## Structure
 
 
 
-\## Dataset
+notebooks
+
+src
+
+configs
+
+reports
+
+
+
+## Dataset
 
 
 
