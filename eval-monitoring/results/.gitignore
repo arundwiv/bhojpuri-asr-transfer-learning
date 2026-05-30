@@ -1,0 +1,5 @@
+# Ignore generated eval output - results are local artefacts, not source
+*.csv
+*.jsonl
+tts_output/
+!.gitkeep
